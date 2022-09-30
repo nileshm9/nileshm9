@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nilesh Maurya a Pyhton Developer @Ascra Technologies & also a Data Science enthusiastic 
+- 👋 Hi, I’m Nilesh Maurya #Python Developer @Ascra Technologies & also a Data Science enthusiastic 
 - 👀 I’m interested in ML, AI & NextGeneration Innovations 
 - 🌱 I’m currently learning erpnext & frappe-framework And have a 
 - 💞️ I’m looking to collaborate on open source softwares
